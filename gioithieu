@@ -6,3 +6,4 @@
 - Tìm kiếm thời tiết theo thành phố
 - Tắt mạng cũng có thể hiển thị thời tiết và chất lược không khí 
 -	Chuyển từ độ C sang độ F 
+- Lịch sử tìm kiếm đc lưu trên ZoomDatabase
