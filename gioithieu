@@ -1,6 +1,8 @@
--	Hiện nay chất lượng không khí  không  khí và thời tiết rất được nhiều người quan tâm mỗi ngày thức dậy 
+-	Hiện nay chất lượng không khí  không  khí và thời tiết rất được nhiều người quan tâm mỗi ngày thức dậy và ra ngoài và đi làm 
+
 -	Lấy vị trí hiện tại người dùng
 -	Hiển thị thời tiết theo ngày và giờ 
 -	Và thông báo chỉ số ô nhiễm của giờ hiện tại và vị trí hiện tại của người dùng
--       Tìm kiếm thời tiết theo thành phố
+- Tìm kiếm thời tiết theo thành phố
+- Tắt mạng cũng có thể hiển thị thời tiết và chất lược không khí 
 -	Chuyển từ độ C sang độ F 
